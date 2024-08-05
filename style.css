@@ -149,9 +149,8 @@ select:hover,
     font-weight: 400;
     font-size: 16px;
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: center;
-    flex-direction: column;
     gap: 20px;
 
 }
