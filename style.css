@@ -7,7 +7,7 @@
 .container {
         margin: 0 auto;
     width: 100%;
-    max-width: 1440px;
+    max-width: 1140px;
 
 }
 
@@ -127,7 +127,7 @@ select:hover,
 
 .skills-block {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     min-width: 50%;
 }
 
@@ -158,8 +158,6 @@ select:hover,
 
 form {
     margin-bottom: 40px;
-    order: -1;
-    
 
 }
 
